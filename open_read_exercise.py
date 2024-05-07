@@ -67,8 +67,6 @@ while True:#读到文本结尾
 #     print(i)
 # f.close()
 
-
-
 # 在单词本(word_list4)中，从终端输入一个单词，从单词本中找到该单词，打印解释内容
 # 如果找不到打印‘找不到’
 fd=open('word_list4.txt','r')
